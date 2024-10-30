@@ -1,6 +1,1 @@
-{
-    "contacts": [{
-        "name": "John", 
-        "age": 22,
-        "email": "johnwiwiko@gmail.com"}]
-}
+{"contacts": [{"name": "John", "age": 22, "email": "johnwiwiko@gmail.com"}, {"name": "joe", "age": 22, "email": "joemama@gmail.com"}, {"name": "joe", "age": 33, "email": "joedada@gmail.com"}]}

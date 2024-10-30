@@ -70,3 +70,6 @@ while True:
         print("Invalid command")
 
     print(people)
+
+with open("contacts.json", "w") as f:
+    json.dump({"contacts": people}, f)
