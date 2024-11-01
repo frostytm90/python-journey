@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "What is the chemical name for Magnesium within the Periodic table?",
+            "options": ["Msg", "Mg", "Mn", "Ms"],
+            "answer": "Mg"
+        },
+        {
+            "question": "What is the capital city of France?",
+            "options": ["Belgium", "Paris", "Nice", "France"],
+            "answer": "Paris"
+        },
+        {
+            "question": "Which country is an island?",
+            "options": ["Russia", "China", "Greenland", "Canada"],
+            "answer": "Greenland"
+        },
+        {
+            "question": "What sound does dogs make?",
+            "options": ["Meow", "Honk", "Squeak", "Woof"],
+            "answer": "Woof"
+        },
+        {
+            "question": "What object is a vehicle?",
+            "options": ["Stone", "Paper", "Human", "Car"],
+            "answer": "Car"
+        },
+        {
+            "question": "What year did Titanic sink?",
+            "options": ["1910", "1912", "1914", "1812"],
+            "answer": "1912"
+        },
+        {
+            "question": "What happens when paper touches fire?",
+            "options": ["Gets burned up", "Turns into air", "Nothing happens", "Gets wet"],
+            "answer": "Gets burned up"
+        },
+        {
+            "question": "What does a human need to do when he/she feels thirsty?",
+            "options": ["Drink Water", "Do Nothing", "Get outside", "Eat food"],
+            "answer": "Drink Water"
+        },
+        {
+            "question": "What object is the closest to Earth?",
+            "options": ["Venus", "Mars", "Moon", "Saturn"],
+            "answer": "Moon"
+        },
+        {
+            "question": "What do you use to wipe your mouth after finishing a meal?",
+            "options": ["Nothing", "Tissue Paper", "Clothes", "Towel"],
+            "answer": "Tissue Paper"
+        }
+    ]
+}
