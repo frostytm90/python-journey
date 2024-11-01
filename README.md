@@ -13,15 +13,11 @@ A simple text-based adventure where users make choices to progress in the story.
 - **Features**: User choice, branching paths, simple combat.
 - **Technology**: Python
 
-[Read More](./text_adventure_game_readme.md)
-
 ### 2. Text-Based Calculator
 A command-line calculator that allows users to perform basic arithmetic operations. This project helped me practice user input validation and arithmetic logic.
 
 - **Features**: Addition, subtraction, multiplication, division, exponentiation.
 - **Technology**: Python
-
-[Read More](./text_base_calculator_readme.md)
 
 ### 3. Contact Management System
 A command-line program to manage contact information. Users can add, delete, search, and store contacts persistently in a JSON file.
@@ -29,22 +25,24 @@ A command-line program to manage contact information. Users can add, delete, sea
 - **Features**: Add, delete, search contacts, persistent storage.
 - **Technology**: Python, JSON
 
-[Read More](./contact_management_system_readme.md)
-
 ### 4. Tic-Tac-Toe
 A classic two-player game implemented in Python. Players take turns placing symbols on a 3x3 grid, and the first player to align three symbols wins.
 
 - **Features**: Two-player mode, winner detection, draw condition.
 - **Technology**: Python
 
-[Read More](./tic_tac_toe_readme.md)
+### 5. Quiz Game
+A Python-based quiz game that allows users to answer multiple-choice questions. Questions are loaded from a JSON file, and the user can specify the number of questions they want to answer.
+
+- **Features**: Random question selection, multiple-choice questions, quiz summary with score and time taken.
+- **Technology**: Python, JSON
 
 ## Motivation
 The motivation behind these projects is to learn Python and understand how to apply it to real-world problems. By creating a variety of projects, I have explored different aspects of Python programming, such as data structures, user input validation, file handling, and game logic.
 
 ## Technologies Used
 - **Python**: The primary programming language used for all the projects.
-- **JSON**: Used in the Contact Management System for data persistence.
+- **JSON**: Used in the Contact Management System and Quiz Game for data persistence.
 
 ## Future Goals
 I plan to continue adding projects to this repository as I learn more about Python and programming in general. Some goals include:
